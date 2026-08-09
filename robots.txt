@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ar8y6q.kilat777res.lat/sitemap.xml
